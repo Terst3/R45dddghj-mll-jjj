@@ -474,7 +474,7 @@
           "ShortDescriptionLine2": "See https://www.ynet.co.il",
           "Poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ynet_website_logo.svg/1200px-Ynet_website_logo.svg.png",
           "StreamUrls": [
-            "https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8"
+            "http://218.202.220.2:5000/nn_live.ts?id=HBO"
           ],
           "StreamFormat": "hls",
           "Live": true
